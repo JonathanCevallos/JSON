@@ -29,6 +29,18 @@
    {
       "id": 4,
       "title": "BANCO DE GUAYAQUIL"
+   },
+   {
+      "id": 5,
+      "title": "BANCO INTERNACIONAL"
+   },
+   {
+      "id": 6,
+      "title": "BANCO DEL AUSTRO"
+   },
+   {
+      "id": 8,
+      "title": "BANCO SOLIDARIO"
    }
 ]
 }
