@@ -13,32 +13,32 @@
    },
 "Bancos": [
    {
-      "id": 1,
-      "title": "BANCO DE PICHINCHA"
+      "codigo": 1,
+      "nombre": "BANCO DE PICHINCHA"
    },
    {
-      "id": 2,
-      "title": "BANECUADOR"
+      "codigo": 2,
+      "nombre": "BANECUADOR"
    },
    {
-      "id": 3,
-      "title": "BANCO DEL PACIFICO"
+      "codigo": 3,
+      "nombre: "BANCO DEL PACIFICO"
    },
    {
-      "id": 4,
-      "title": "BANCO DE GUAYAQUIL"
+      "codigo": 4,
+      "nombre": "BANCO DE GUAYAQUIL"
    },
    {
-      "id": 5,
-      "title": "BANCO INTERNACIONAL"
+      "codigo": 5,
+      "nombre": "BANCO INTERNACIONAL"
    },
    {
-      "id": 6,
-      "title": "BANCO DEL AUSTRO"
+      "codigo": 6,
+      "nambre": "BANCO DEL AUSTRO"
    },
    {
-      "id": 7,
-      "title": "BANCO SOLIDARIO"
+      "codigo": 7,
+      "nombre": "BANCO SOLIDARIO"
    }
 ]
 }
